@@ -11,5 +11,5 @@ const (
 )
 
 func version() string {
-  return fmt.SPrintf( "VERSION %s" , VERSION )
+  return fmt.Sprintf( "VERSION %s" , VERSION )
 }
