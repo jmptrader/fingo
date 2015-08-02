@@ -1,12 +1,12 @@
 # Fingo
-*An very fresh & fun financial programming toolkit in GO*
+*An very fresh & fun financial programming toolkit in Go*
 
 ## Why?
-GO is fun & productive for many domains. 
-In this project, seek to demonstrate that GO is ok for build financial applications system.
+Go is productive for many domains. 
+In this project, seek to demonstrate that Go is ok for build financial applications system.
 
 ## Purpose
-The purpose of Fingo is to provide a simple, extensible library, which makes develop specific financial applications is no hard. Fingo provides out of the box a framework for implementing the most common elements in financial application, includes instrument representation, trade capture, pricing, portfolio valuation, limits and more features.
+The purpose of Fingo is to provide a simple, extensible library, which makes develop specific financial applications is no hard. Fingo provides out of the box a framework for implementing the most common elements in financial application : instrument representation, trade capture, pricing, portfolio valuation, limits and more features.
 
 ## Ideas
 
