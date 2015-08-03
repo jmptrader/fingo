@@ -1,0 +1,46 @@
+core
+  dates
+  calendars
+  rates
+  currencies
+  amount
+
+curves
+  zeros
+  df
+
+market
+  prices
+  rates
+  
+instrument
+  cash
+  stock
+  fxspots
+  fxforwards
+  fxswaps
+  bonds
+  deposits
+  swaps
+  fras
+  options
+
+trade
+  general
+  leg
+  composite
+
+position
+portfolio
+
+process
+  limits
+  accounting
+  accrual
+  valuation
+  marktomarket
+  valueAtRisk
+  gapLiquity
+  gapInterest
+
+...
